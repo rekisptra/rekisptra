@@ -33,7 +33,7 @@
 ### Favorit song 🎧
 
 <p align="center">
-  <a href="https://f.top4top.io/m_2179mrz2b0.mp3" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://now-playing-on-spotify.vercel.app/api/spotify" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
