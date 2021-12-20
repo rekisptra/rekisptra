@@ -40,5 +40,5 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/RekiXploit23"><img src="https://github-readme-stats.vercel.app/api?username=RekiXploit23&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/RekiXploit23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekiXploit23&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/RekiXploit"><img src="https://github-readme-stats.vercel.app/api?username=RekiXploit&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/RekiXploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekiXploit&theme=radical&layout=compact"></a></p>
