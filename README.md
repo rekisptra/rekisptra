@@ -42,3 +42,24 @@
 
 <p align="center"><a href="https://github.com/RekiXploit"><img src="https://github-readme-stats.vercel.app/api?username=RekiXploit&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/RekiXploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekiXploit&theme=radical&layout=compact"></a></p>
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=bash-obfuscate&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=Fb-hack&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=Encode-HTML&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=RekiXploit&theme=nightowl)
+
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/RekiXploit?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details>
