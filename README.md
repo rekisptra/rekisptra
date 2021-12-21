@@ -19,7 +19,7 @@
   <a href="https://www.facebook.com/profile.php?id=100075959093667"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://mobile.twitter.com/RekiXploit"><img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white"/> <br>
   <a href="https://rekixploit.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-E4405F?style=for-the-badge&logo=Blogger&logoColor=white"/>
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-RekiXploit-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
+  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-RekiXploit-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCgCTrpW-DIEdsETNrfvpFyg" /><br>
   <a href="https://github.com/OneTXz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
