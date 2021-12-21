@@ -44,9 +44,9 @@
 <p align="center"><a href="https://github.com/RekiXploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekiXploit&theme=radical&layout=compact"></a></p>
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=bash-obfuscate&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=Fb-hack&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=Encode-HTML&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=Fb-hack&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=BruteForce&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=vbug&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RekiXploit&repo=RekiXploit&theme=nightowl)
 
 
