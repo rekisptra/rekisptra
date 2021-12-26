@@ -23,9 +23,9 @@
   <a href="https://github.com/OneTXz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-### Pubg mobile 🎮
+### My Life 🖥️
 <p align="center">
-  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+  <img src="https://d.top4top.io/p_21866zdgo0.gif" />
 </p>
 
 ------
