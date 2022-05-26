@@ -14,7 +14,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/reki.sptraaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/store._reki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.link/yja57r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/profile.php?id=100076833660727"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://mobile.twitter.com/caraatech"><img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white"/> <br>
