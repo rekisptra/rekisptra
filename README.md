@@ -5,7 +5,7 @@
 
 <p align="center">
 
-### I &nbsp;Personal Stuffs
+### Personal Details
 
 - 👼 My name is Reki Saputra
 - 🗣️ I am 16 years old 
