@@ -1,7 +1,5 @@
 <img align="center" height="auto" src="https://i.ibb.co/b6xJPND/46aadefb80cb.jpg" />
 
-<p align="center">
-
 ---
 ```python
 class say_hello:
