@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/b6xJPND/46aadefb80cb.jpg" />
-</p>
+<img align="center" height="auto" src="https://i.ibb.co/b6xJPND/46aadefb80cb.jpg" />
 
 <p align="center">
 
