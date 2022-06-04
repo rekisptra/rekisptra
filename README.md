@@ -1,16 +1,25 @@
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
   <img src="https://i.ibb.co/b6xJPND/46aadefb80cb.jpg" />
 </p>
 
 <p align="center">
 
-### Personal Details
+---
+```python
+class say_hello:
 
-- 👼 My name is Reki Saputra
-- 🗣️ I am 16 years old 
-- 📝 Thanks To [`Team Provider Xploit`](https://github.com/RekiXploit).
-</p>
+    def __init__(self, text) -> None:
+        self.text = text
+
+    def __str__(self) -> str:
+        return self.text
+
+    def __repr__(self) -> str:
+        return self.__str__()
+
+if __name__ == "__main__":
+    print(say_hello("Hello there 👋, I'm RekiXploit, Nice to meet you all!"))
+```
 
 ------
 ### Connect with me ☎️
