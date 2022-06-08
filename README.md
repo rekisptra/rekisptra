@@ -18,6 +18,7 @@ class say_hello:
 if __name__ == "__main__":
     print(say_hello("Hello there 👋, I'm RekiXploit, Nice to meet you all!"))
 ```
+- 📝 Thanks To [`Team Provider Xploit`](https://github.com/RekiXploit)
 
 ------
 ### Connect with me ☎️
