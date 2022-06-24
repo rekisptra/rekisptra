@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/b6xJPND/46aadefb80cb.jpg" with="100%" alt="API Giphy logo"/>
+<img src="https://d.top4top.io/p_2365iptq90.jpeg" with="100%" alt="API Giphy logo"/>
 </p>
 
 ---
