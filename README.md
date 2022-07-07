@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
 ### My Life 🖥️
 <p align="center">
-  <img src="https://d.top4top.io/p_21866zdgo0.gif" />
+  <img src="https://d.top4top.io/p_21866zdgo0.gif" alt="Mr.OneTXz"/>
 </p>
 
 ------
