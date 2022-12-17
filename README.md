@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://d.top4top.io/p_2365iptq90.jpeg" with="100%" alt="Mr.OneTXz"/>
+<img src="https://i.ibb.co/HD2cnJS/IMG-20221216-031958-695.jpg" with="100%" alt="Mr.OneTXz"/>
 </p>
 
 ---
