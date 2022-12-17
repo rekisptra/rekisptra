@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/HD2cnJS/IMG-20221216-031958-695.jpg" with="100%" alt="Mr.OneTXz"/>
+<img src="https://i.ibb.co/0K1PMM4/Enraged-Organic-Inexpectatumpleco.webp" with="100%" alt="Mr.OneTXz"/>
 </p>
 
 ---
