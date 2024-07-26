@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://i.ibb.co/0K1PMM4/Enraged-Organic-Inexpectatumpleco.webp" with="100%" alt="Mr.OneTXz"/>
-</p>
 
 ---
 ```python
