@@ -39,21 +39,13 @@ if __name__ == "__main__":
 
 <p align="center">
 
-  <a href="https://github.com/OneTXz"><img src="https://github-readme-stats.vercel.app/api?username=OneTXz&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/rekisptra"><img src="https://github-readme-stats.vercel.app/api?username=rekisptra&theme=tokyonight&show_icons=true" /></a>
 
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/OneTXz"><img src="https://github-readme-streak-stats.herokuapp.com?user=OneTXz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/OneTXz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OneTXz&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/rekisptra"><img src="https://github-readme-streak-stats.herokuapp.com?user=rekisptra&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
 </p>
 
@@ -61,6 +53,14 @@ if __name__ == "__main__":
 
 <p align="center">
 
-  <a href="https://github.com/OneTXz"><img src="https://github-profile-trophy.vercel.app/?username=OneTXz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/rekisptra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rekisptra&theme=tokyonight&layout=compact" /></a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/rekisptra"><img src="https://github-profile-trophy.vercel.app/?username=rekisptra&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 
 </p>
