@@ -20,7 +20,7 @@ if __name__ == "__main__":
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/rekisptraaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.link/yja57r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a href="https://wa.me/79214712470"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
   <a href="https://www.media903.com/"><img src="https://img.shields.io/badge/Blogger-E4405F?style=for-the-badge&logo=Blogger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linkedin-RekiSptra-ff0000?style=for-the-badge&logo=linkedin&logoColor=ff0000&link=https://youtube.com/channel/UCgCTrpW-DIEdsETNrfvpFyg" /><br>
   <a href="https://github.com/OneTXz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
